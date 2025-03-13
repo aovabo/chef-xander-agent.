@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@mastra/core": "^0.6.0",
+    "tsconfig-paths": "^4.2.0"
+  }
+}
